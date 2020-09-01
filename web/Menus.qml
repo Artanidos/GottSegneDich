@@ -10,7 +10,7 @@ Menus {
             attributes: "class=\"scrollTo\""
         }
         Menuitem {
-            title: 'Geschichte'
+            title: 'Helfen'
             url: '#features'
             icon: ''
             attributes: "class=\"scrollTo\""

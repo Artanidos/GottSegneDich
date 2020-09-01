@@ -17,6 +17,10 @@ Content {
             fullwidth: true
 
             Slide {
+                src: "/media/art/data/SourceCode/UBUCON/web/assets/images/handsbanner.png"
+            }
+
+            Slide {
                 src: "/media/art/data/SourceCode/UBUCON/web/assets/images/happypeople.png"
             }
         }
@@ -31,14 +35,14 @@ Content {
 
                 Text {
                     text: "&lt;h1&gt;
-	&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&amp;#10084; e.V. (in Gründung)
+	&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&amp;#10084; e.V.
 	&lt;span class=&quot;subtitle&quot;&gt;Hilfe für Menschen in Notlage&lt;/span&gt;
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;Einige Menschen haben folgende Probleme auf dieser Welt&lt;/p&gt;
 &lt;div class=&quot;row featured-box-minimal&quot;&gt; 
 	&lt;div class=&quot;col-md-12&quot;&gt;
 		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Wohnungslosigkeit&lt;/h4&gt;
-		&lt;p&gt;
+		&lt;p&gt; 
 			Sogar in Deutschland, Österreich oder auch in der Schweiz gibt es Menschen, 
 			die keine Wohnung haben, weil sie sich diese nicht leisten können. 
 		&lt;/p&gt;
@@ -93,7 +97,7 @@ Content {
 		&lt;div class=&quot;col-md-6&quot;&gt;
 			&lt;div class=&quot;white-row&quot;&gt;
 				&lt;h3&gt;&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&amp;#10084;&lt;/h3&gt;
-				&lt;p class=&quot;lead&quot;&gt;
+				&lt;p class=&quot;lead&quot;&gt; 
 					Spende warme Mahlzeiten für hungrige Menschen
 				&lt;/p&gt;
 			&lt;/div&gt;
@@ -246,6 +250,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;Schlafsack&lt;/li&gt;
 			&lt;li&gt;Gaskocher&lt;/li&gt;
+			&lt;li&gt;Kochtopf&lt;/li&gt;
 			&lt;li&gt;Zahnbürste&lt;/li&gt;
 			&lt;li&gt;Kokusnusöl&lt;/li&gt;
 			&lt;li&gt;Schloss zum Anschließen des Rucksacks&lt;/li&gt;
