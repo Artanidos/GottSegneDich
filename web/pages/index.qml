@@ -17,6 +17,10 @@ Content {
             fullwidth: true
 
             Slide {
+                src: "/media/art/data/SourceCode/UBUCON/web/assets/images/herzbanner.png"
+            }
+
+            Slide {
                 src: "/media/art/data/SourceCode/UBUCON/web/assets/images/handsbanner.png"
             }
 
@@ -35,10 +39,19 @@ Content {
 
                 Text {
                     text: "&lt;h1&gt;
-	&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&amp;#10084; e.V.
+	&lt;strong&gt;Gott segne Dich &lt;/strong&gt; e.V. 
 	&lt;span class=&quot;subtitle&quot;&gt;Hilfe für Menschen in Notlage&lt;/span&gt;
 &lt;/h1&gt;
-&lt;p class=&quot;lead&quot;&gt;Einige Menschen haben folgende Probleme auf dieser Welt&lt;/p&gt;
+&lt;p&gt;
+	Wir haben diesen Verein gegründet, nachdem wir selber einmal in eine Notlage
+	gekommen sind.&lt;/br&gt;
+	Olaf hat Jahre lang für Banken und Versicherungen gearbeitet, bis er dann eines Tages
+	wegen einem Burnout mit einem Nahtoderlebnis aus dem Berufsleben ausscheiden musste. 
+	Er wurde bald darauf wohnungslos.&lt;/br&gt;
+	Aniko war selbständige Therapeuthin und musste auch wegen einem Burnout aufhören und
+	war nicht mehr in der Lage, ihre Rechnungen zu bezahlen.
+&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;Viele Menschen haben folgende Probleme auf dieser Welt&lt;/p&gt;
 &lt;div class=&quot;row featured-box-minimal&quot;&gt; 
 	&lt;div class=&quot;col-md-12&quot;&gt;
 		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Wohnungslosigkeit&lt;/h4&gt;
@@ -48,6 +61,17 @@ Content {
 		&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;row featured-box-minimal&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot;&gt;
+		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Überschuldung&lt;/h4&gt;
+		&lt;p&gt;
+			Viele Menschen leiden heute an den Folgen der Überschuldung und können ihre
+			Rechnungen nicht mehr bezahlen.
+		&lt;/p&gt;
+	&lt;/div&gt;	
+&lt;/div&gt;
+
 &lt;div class=&quot;row featured-box-minimal&quot;&gt;
 	&lt;div class=&quot;col-md-12&quot;&gt;
 		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Hunger&lt;/h4&gt;
@@ -59,17 +83,7 @@ Content {
 	&lt;/div&gt;	
 &lt;/div&gt;
 
-&lt;div class=&quot;row featured-box-minimal&quot;&gt;
-	&lt;div class=&quot;col-md-12&quot;&gt;
-		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Bargeld wird bald abgeschafft&lt;/h4&gt;
-		&lt;p&gt;
-			Da uns bereits heute damit gedroht wird, das Bargeld abzuschaffen, müssen wir
-			Vorkehrungen treffen, um anderen Menschen auch Morgen noch helfen zu können.
-			Wir sehen da zum Beispiel ein Problem für Strassenmusiker und Bettler,
-			denn die können ja kein Kartenlesegerät nutzen ;-)
-		&lt;/p&gt;
-	&lt;/div&gt;	
-&lt;/div&gt;
+
 
 
 &lt;p class=&quot;lead&quot;&gt;
@@ -96,7 +110,7 @@ Content {
 	&lt;div class=&quot;row animation_fade_in&quot;&gt;
 		&lt;div class=&quot;col-md-6&quot;&gt;
 			&lt;div class=&quot;white-row&quot;&gt;
-				&lt;h3&gt;&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&amp;#10084;&lt;/h3&gt;
+				&lt;h3&gt;&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt; 
 					Spende warme Mahlzeiten für hungrige Menschen
 				&lt;/p&gt;
@@ -205,9 +219,9 @@ Content {
 	&lt;div class=&quot;row animation_fade_in&quot;&gt;
 		&lt;div class=&quot;col-md-6&quot;&gt;
 			&lt;div class=&quot;white-row&quot;&gt;
-				&lt;h3&gt;&lt;strong&gt;Gott segne Dich&lt;/strong&gt; &amp;#10084;&lt;/h3&gt;
+				&lt;h3&gt;&lt;strong&gt;Gott segne Dich&lt;/strong&gt;&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt;
-					Spende ein Zehnt deines Einkommens um anderen Menschen zu helfen
+					Spende ein Zehnt deines Geldes um anderen Menschen zu helfen
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -252,7 +266,8 @@ Content {
 			&lt;li&gt;Gaskocher&lt;/li&gt;
 			&lt;li&gt;Kochtopf&lt;/li&gt;
 			&lt;li&gt;Zahnbürste&lt;/li&gt;
-			&lt;li&gt;Kokusnusöl&lt;/li&gt;
+			&lt;li&gt;Zahnpasta&lt;/li&gt;
+			&lt;li&gt;Trinkflasche&lt;/li&gt;
 			&lt;li&gt;Schloss zum Anschließen des Rucksacks&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
@@ -296,9 +311,9 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;Über &lt;strong&gt;Anniko&lt;/strong&gt; (Initiatorin)&lt;/h3&gt;
+	&lt;h3&gt;Über &lt;strong&gt;Aniko&lt;/strong&gt; (Initiatorin)&lt;/h3&gt;
 	&lt;p&gt;
-		&lt;strong&gt;Anniko&lt;/strong&gt; hatte die Idee für dieses Projekt durch eine Eingebung von Gott,
+		&lt;strong&gt;Aniko&lt;/strong&gt; hatte die Idee für dieses Projekt durch eine Eingebung von Gott,
 		nachdem sie selbst einmal in eine Notlage geraten ist.
 	&lt;/p&gt;
 	&lt;p&gt;
@@ -320,9 +335,9 @@ Content {
 				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/anniko.png&quot; width=&quot;263&quot; height=&quot;263&quot; alt=&quot;&quot;/&gt;
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;Anniko&lt;/h4&gt;
+				&lt;h4&gt;Aniko&lt;/h4&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Düsseldorf +49 (0)173 900 19 69&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:bla@blub.de&quot;&gt;Anniko&lt;/a&gt; lebt in Düsseldorf&lt;/p&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:anikopacinella@gmail.com&quot;&gt;Aniko&lt;/a&gt; lebt in Düsseldorf&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;!-- a href=&quot;https://www.facebook.com/meli.jurak&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a--&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a--&gt;

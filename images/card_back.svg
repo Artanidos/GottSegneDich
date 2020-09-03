@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85mm"
+   height="55mm"
+   viewBox="0 0 85 55"
+   version="1.1"
+   id="svg1788"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="card_back.svg">
+  <defs
+     id="defs1782">
+    <style
+       id="style2411">.cls-1{fill:#e42b2b;fill-rule:evenodd;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5961001"
+     inkscape:cx="170.8163"
+     inkscape:cy="101.78688"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1785">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-242)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.98870084;stroke:none;stroke-width:0.10693841;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2352"
+       width="85"
+       height="55"
+       x="0"
+       y="242" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     transform="translate(0,-93)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.55177641px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11379441"
+       x="4.9320712"
+       y="133.33966"
+       id="text885"><tspan
+         sodipodi:role="line"
+         x="4.9320712"
+         y="133.33966"
+         style="stroke-width:0.11379441"
+         id="tspan887">Für diesen Gutschein bekommst </tspan><tspan
+         sodipodi:role="line"
+         x="4.9320712"
+         y="139.02939"
+         style="stroke-width:0.11379441"
+         id="tspan891">Du eine warme Mahlzeit bei dem </tspan><tspan
+         sodipodi:role="line"
+         x="4.9320712"
+         y="144.7191"
+         style="stroke-width:0.11379441"
+         id="tspan947">Ausgeber.</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.98022599;stroke:#000000;stroke-width:0.13428441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect893"
+       width="40.961647"
+       height="28.880432"
+       x="39.6973"
+       y="97.226929" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.99513984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07487849"
+       x="3.5359826"
+       y="100.0196"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="3.5359826"
+         y="100.0196"
+         style="stroke-width:0.07487849">Gott segne Dich e.V.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.00355768px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05008895"
+       x="3.5075285"
+       y="102.91039"
+       id="text897-6"><tspan
+         sodipodi:role="line"
+         id="tspan895-3"
+         x="3.5075285"
+         y="102.91039"
+         style="stroke-width:0.05008895">Hilfe für Menschen in Notlage.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.71557951px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06788948"
+       x="3.6829512"
+       y="106.28845"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="3.6829512"
+         y="106.28845"
+         style="stroke-width:0.06788948">Ottensteinerstr. 8</tspan><tspan
+         sodipodi:role="line"
+         x="3.6829512"
+         y="109.68293"
+         style="stroke-width:0.06788948"
+         id="tspan975">3804 Allentsteig</tspan><tspan
+         sodipodi:role="line"
+         x="3.6829512"
+         y="113.0774"
+         style="stroke-width:0.06788948"
+         id="tspan977">Austria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.77907133px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.09447678"
+       x="40.616516"
+       y="101.63274"
+       id="text919-8"><tspan
+         sodipodi:role="line"
+         id="tspan917-5"
+         x="40.616516"
+         y="101.63274"
+         style="fill:#b3b3b3;stroke-width:0.09447678">Ausgeber</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.43778634px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08594465"
+       x="3.5144842"
+       y="117.78391"
+       id="text919-1"><tspan
+         sodipodi:role="line"
+         id="tspan917-59"
+         x="3.5144842"
+         y="117.78391"
+         style="stroke-width:0.08594465">gottsegnedich.de</tspan></text>
+  </g>
+</svg>
