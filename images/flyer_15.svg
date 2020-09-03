@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="85mm"
-   height="55mm"
-   viewBox="0 0 85 55"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
    version="1.1"
    id="svg1788"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="card_front.svg">
+   sodipodi:docname="flyer_15.svg">
   <defs
      id="defs1782">
     <style
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7172723"
-     inkscape:cx="180.36317"
-     inkscape:cy="69.128742"
+     inkscape:zoom="0.56151854"
+     inkscape:cx="448.19563"
+     inkscape:cy="277.45444"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,40 +56,18 @@
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-242)">
+     transform="translate(0,-149)">
     <rect
-       style="opacity:0.98000004;fill:#000000;fill-opacity:0.98870084;stroke:none;stroke-width:0.10693841;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98000004;fill:#000000;fill-opacity:0.98870084;stroke:none;stroke-width:0.27599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2352"
-       width="85"
-       height="55"
+       width="210.20898"
+       height="148.14297"
        x="0"
-       y="242" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Text"
-     transform="translate(0,-93)">
-    <g
-       id="g856"
-       transform="matrix(0.64404357,0,0,0.64404357,1.0563,95.6815)">
-      <text
-         transform="scale(0.98290956,1.0173876)"
-         id="text2361"
-         y="13.92407"
-         x="6.5337362"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.49641037px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.16916305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.16916305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="13.92407"
-           x="6.5337362"
-           id="tspan2359"
-           sodipodi:role="line">Gott segne Dich e.V.</tspan></text>
-    </g>
+       y="148.85703" />
     <image
-       y="111.95493"
-       x="5.724689"
-       id="image937"
+       y="185.12303"
+       x="11.234067"
+       id="image1047"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAYMCAYAAAD3li/AAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
 WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AkDDg8UyXjbEwAAAB1pVFh0Q29tbWVudAAAAAAAQ3Jl
 YXRlZCB3aXRoIEdJTVBkLmUHAAAgAElEQVR42pS9S5IkuZItpviYR2RV3SvNBXDOOQfkFjgguSXu
@@ -38300,34 +38278,106 @@ ZRJrCwsvY87zPt4NQnfKZ29dWTtDb43bz6/3JQ878nAbISDshhxesKCnwN0RQLw1bUkHAdGto3c2
 QX/KadFKIAD4fwreeA91Kc7zAAAAAElFTkSuQmCC
 "
        preserveAspectRatio="none"
-       height="30.5655"
-       width="28.433023" />
+       height="68.957748"
+       width="64.146751" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.58317184px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16457933"
-       x="39.791222"
-       y="116.93513"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.0113163px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27415904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="10.721621"
+       y="24.812189"
+       id="text2361"
+       transform="scale(0.98290956,1.0173876)"><tspan
+         sodipodi:role="line"
+         id="tspan2359"
+         x="10.721621"
+         y="24.812189"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27415904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Gott segne Dich e.V.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.56788731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.23919721"
+       x="83.1847"
+       y="44.340157"
        id="text2428"
        transform="scale(0.99655581,1.0034561)"><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="116.93513"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
-         id="tspan2432">Ich spende</tspan><tspan
+         id="tspan2426"
+         x="83.1847"
+         y="44.340157"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.23919721">Öffne Dein Herz durch </tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="125.16409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
-         id="tspan862">Dir eine </tspan><tspan
+         x="83.1847"
+         y="56.300014"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.23919721"
+         id="tspan2430">das bedingungslose</tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="133.39305"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
-         id="tspan950">warme </tspan><tspan
+         x="83.1847"
+         y="68.259872"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.23919721"
+         id="tspan2432">GEBEN einer warmen</tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="141.62202"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
-         id="tspan944">Mahlzeit.</tspan></text>
+         x="83.1847"
+         y="80.219734"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.23919721"
+         id="tspan976">Mahlzeit.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.28362179px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23209058"
+       x="10.919581"
+       y="116.04951"
+       id="text2428-8"
+       transform="scale(0.98270218,1.0176023)"><tspan
+         sodipodi:role="line"
+         x="10.919581"
+         y="116.04951"
+         style="fill:#ffffff;stroke-width:0.23209058"
+         id="tspan2462">Mit dem Erwerb eines Gutscheines kannst</tspan><tspan
+         sodipodi:role="line"
+         x="10.919581"
+         y="127.65404"
+         style="fill:#ffffff;stroke-width:0.23209058"
+         id="tspan986">du einem anderen Menschen eine Freude</tspan><tspan
+         sodipodi:role="line"
+         x="10.919581"
+         y="139.25856"
+         style="fill:#ffffff;stroke-width:0.23209058"
+         id="tspan1058">bereiten.</tspan></text>
+    <g
+       id="g837"
+       transform="translate(-11.163998,-33.85719)">
+      <ellipse
+         ry="17.300119"
+         rx="25.68265"
+         cy="124.47521"
+         cx="179.64146"
+         id="path2644"
+         style="opacity:0.98000004;fill:#ff6600;fill-opacity:0.98022599;stroke:#fffff9;stroke-width:0.24216405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2648"
+         y="132.79581"
+         x="157.75296"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.88811302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#fffff9;stroke-width:0.54720283;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#fffff9;stroke-width:0.54720283;stroke-opacity:1"
+           y="132.79581"
+           x="157.75296"
+           id="tspan2646"
+           sodipodi:role="line">15,- </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="109.17204"
+         y="179.50122"
+         id="text1143"><tspan
+           sodipodi:role="line"
+           id="tspan1141"
+           x="109.17204"
+           y="194.48325"
+           style="stroke-width:0.26458332"></tspan></text>
+    </g>
   </g>
 </svg>

@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29479531"
-     inkscape:cx="513.59563"
-     inkscape:cy="764.77013"
+     inkscape:zoom="0.3032561"
+     inkscape:cx="544.49048"
+     inkscape:cy="786.75276"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -169,7 +169,7 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-187.20845"
        y="287.59982"
        id="text834"
@@ -178,6 +178,6 @@
          id="tspan832"
          x="-187.20845"
          y="287.59982"
-         style="stroke-width:0.26458332">gottsegnedich.at</tspan></text>
+         style="stroke-width:0.26458332;fill:#ff6600;">gottsegnedich.at</tspan></text>
   </g>
 </svg>

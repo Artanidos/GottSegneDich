@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5961001"
-     inkscape:cx="170.8163"
+     inkscape:cx="163.72293"
      inkscape:cy="101.78688"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,25 +72,20 @@
      transform="translate(0,-93)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.55177641px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11379441"
-       x="4.9320712"
-       y="133.33966"
+       style="font-style:normal;font-weight:normal;font-size:3.83598304px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09589957"
+       x="3.7081006"
+       y="136.23535"
        id="text885"><tspan
          sodipodi:role="line"
-         x="4.9320712"
-         y="133.33966"
-         style="stroke-width:0.11379441"
-         id="tspan887">Für diesen Gutschein bekommst </tspan><tspan
+         x="3.7081006"
+         y="136.23535"
+         style="stroke-width:0.09589957"
+         id="tspan947">Für diesen Gutschein bekommst Du eine </tspan><tspan
          sodipodi:role="line"
-         x="4.9320712"
-         y="139.02939"
-         style="stroke-width:0.11379441"
-         id="tspan891">Du eine warme Mahlzeit bei dem </tspan><tspan
-         sodipodi:role="line"
-         x="4.9320712"
-         y="144.7191"
-         style="stroke-width:0.11379441"
-         id="tspan947">Ausgeber.</tspan></text>
+         x="3.7081006"
+         y="141.03033"
+         style="stroke-width:0.09589957"
+         id="tspan840">warme Mahlzeit bei dem Ausgeber.</tspan></text>
     <rect
        style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.98022599;stroke:#000000;stroke-width:0.13428441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect893"
@@ -100,7 +95,7 @@
        y="97.226929" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.99513984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07487849"
+       style="font-style:normal;font-weight:normal;font-size:2.99513984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.07487849;"
        x="3.5359826"
        y="100.0196"
        id="text897"><tspan
@@ -108,7 +103,7 @@
          id="tspan895"
          x="3.5359826"
          y="100.0196"
-         style="stroke-width:0.07487849">Gott segne Dich e.V.</tspan></text>
+         style="stroke-width:0.07487849;fill:#ff6600;">Gott segne Dich e.V.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.00355768px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05008895"
@@ -124,26 +119,26 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.71557951px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06788948"
        x="3.6829512"
-       y="106.28845"
+       y="107.87595"
        id="text919"><tspan
          sodipodi:role="line"
          id="tspan917"
          x="3.6829512"
-         y="106.28845"
+         y="107.87595"
          style="stroke-width:0.06788948">Ottensteinerstr. 8</tspan><tspan
          sodipodi:role="line"
          x="3.6829512"
-         y="109.68293"
+         y="111.27043"
          style="stroke-width:0.06788948"
          id="tspan975">3804 Allentsteig</tspan><tspan
          sodipodi:role="line"
          x="3.6829512"
-         y="113.0774"
+         y="114.6649"
          style="stroke-width:0.06788948"
          id="tspan977">Austria</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.77907133px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.09447678"
+       style="font-style:normal;font-weight:normal;font-size:3.77907133px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.09447678;"
        x="40.616516"
        y="101.63274"
        id="text919-8"><tspan
@@ -151,17 +146,17 @@
          id="tspan917-5"
          x="40.616516"
          y="101.63274"
-         style="fill:#b3b3b3;stroke-width:0.09447678">Ausgeber</tspan></text>
+         style="fill:#cccccc;stroke-width:0.09447678;">Ausgeber</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.43778634px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08594465"
+       style="font-style:normal;font-weight:normal;font-size:3.43778634px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.08594465;"
        x="3.5144842"
-       y="117.78391"
+       y="125.72141"
        id="text919-1"><tspan
          sodipodi:role="line"
          id="tspan917-59"
          x="3.5144842"
-         y="117.78391"
-         style="stroke-width:0.08594465">gottsegnedich.de</tspan></text>
+         y="125.72141"
+         style="stroke-width:0.08594465;fill:#ff6600;">gottsegnedich.at</tspan></text>
   </g>
 </svg>
