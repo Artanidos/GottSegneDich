@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="plakat.svg">
+   sodipodi:docname="plakat.svg"
+   inkscape:export-filename="/media/art/data/SourceCode/GottSegneDich/images/plakat.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3032561"
-     inkscape:cx="544.49048"
-     inkscape:cy="786.75276"
+     inkscape:zoom="0.29292769"
+     inkscape:cx="554.94816"
+     inkscape:cy="804.44166"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,12 +98,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.93047714px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44826192"
        x="14.996085"
-       y="-70.069199"
+       y="-69.010864"
        id="text842"><tspan
          sodipodi:role="line"
          id="tspan840"
          x="14.996085"
-         y="-70.069199"
+         y="-69.010864"
          style="fill:#ffffff;stroke-width:0.44826192">Hilfe für Menschen in Notlage</tspan></text>
     <text
        xml:space="preserve"

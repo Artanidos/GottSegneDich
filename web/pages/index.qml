@@ -40,7 +40,7 @@ Content {
                 Text {
                     text: "&lt;h1&gt;
 	&lt;strong&gt;Gott segne Dich &lt;/strong&gt; e.V. 
-	&lt;span class=&quot;subtitle&quot;&gt;Hilfe für Menschen in Notlage&lt;/span&gt;
+	&lt;span class=&quot;subtitle&quot;&gt;Ein Herz für Menschen&lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;
 	Wir haben diesen Verein gegründet, nachdem wir selber einmal in eine Notlage
