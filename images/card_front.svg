@@ -18,8 +18,8 @@
    inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="card_front.svg"
    inkscape:export-filename="/media/art/data/SourceCode/GottSegneDich/images/card_front.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="300.18182"
+   inkscape:export-ydpi="300.18182">
   <defs
      id="defs1782">
     <style
@@ -33,7 +33,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7172723"
-     inkscape:cx="181.90549"
+     inkscape:cx="135.80831"
      inkscape:cy="69.128742"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -99,30 +99,30 @@
        width="28.433023" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.58317184px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16457933"
-       x="39.791222"
-       y="116.93513"
+       style="font-style:normal;font-weight:normal;font-size:6.13495541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.15337391"
+       x="39.80698"
+       y="117.60844"
        id="text2428"
        transform="scale(0.99655581,1.0034561)"><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="116.93513"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
+         x="39.80698"
+         y="117.60844"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.15337391"
          id="tspan2432">Ich schenke</tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="125.16409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
+         x="39.80698"
+         y="125.27713"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.15337391"
          id="tspan862">Dir eine </tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="133.39305"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
+         x="39.80698"
+         y="132.94583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.15337391"
          id="tspan950">warme </tspan><tspan
          sodipodi:role="line"
-         x="39.791222"
-         y="141.62202"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.16457933"
+         x="39.80698"
+         y="140.61452"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.15337391"
          id="tspan944">Mahlzeit.</tspan></text>
   </g>
 </svg>
