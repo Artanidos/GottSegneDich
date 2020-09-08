@@ -16,6 +16,12 @@ Menus {
             attributes: "class=\"scrollTo\""
         }
         Menuitem {
+            title: 'Mitgliedschaften'
+            url: '#member'
+            icon: ''
+            attributes: "class=\"scrollTo\""
+        }
+        Menuitem {
             title: 'Team'
             url: '#team'
             icon: ''

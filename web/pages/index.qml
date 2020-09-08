@@ -279,11 +279,137 @@ Content {
 		&lt;p&gt;
 			Wir wollen Land erwerben und dort kleine Häuser, Jurten, Teepees, Dome und Zome
 			aufstellen, in dem dann wohnungslose Menschen leben können.
+			
+		&lt;/p&gt;
+		&lt;p&gt;
+			Hier findet ihr eines unser Projekte an der Algarve&lt;/br&gt;
+			&lt;a href=&quot;https://www.facebook.com/campedenalgarve&quot;&gt;Camp Eden&lt;/a&gt;		
 		&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 "
                     adminlabel: "Ideen"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2 id=&quot;member&quot; class=&quot;margin-top80&quot;&gt;&lt;strong&gt;Mitgliedschaften&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class=&quot;lead&quot;&gt;
+	Als Mitglied bei &lt;strong&gt;Gott segne Dich&lt;/strong&gt; genießt Du für nur 88,80 € im Jahr nachfolgende Vorzüge. 
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Du hilfst Menschen, die in eine Notlage geraten sind.&lt;/li&gt;
+	&lt;li&gt;Todo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;row pricetable-container&quot;&gt;
+	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+		&lt;h3&gt;Standard (halbj.)&lt;/h3&gt;
+		&lt;p&gt;	
+			44,99 €
+			&lt;span&gt;Pro halbes Jahr&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;Du wirst zum Standard-Förder-Mitglied, mit halbjährlichen Beiträgen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+		&lt;h3&gt;Standard&lt;/h3&gt;
+		&lt;p&gt;	
+			88,80 €
+			&lt;span&gt;Pro Jahr&lt;/span&gt;
+		&lt;/p&gt;
+
+		&lt;ul&gt;
+		&lt;li&gt;Du wirst zum Standard-Förder-Mitglied, mit jährlichen Beiträgen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;PREMIUM - Mitgliedschaften&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Nachfolgende Premium Mitgliedschaften kannst du bei uns erwerben&lt;/p&gt;
+
+&lt;div class=&quot;row pricetable-container&quot;&gt;
+	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+		&lt;h3&gt;Bronze&lt;/h3&gt;
+		&lt;p&gt;	
+			888,- €
+			&lt;span&gt;Einmalig&lt;/span&gt;
+		&lt;/p&gt;
+
+		&lt;ul&gt;
+		&lt;li&gt;Du wirst auf Wunsch als Bronze-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein hohes Ansehen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+		&lt;h3&gt;Silber&lt;/h3&gt;
+		&lt;p&gt;	
+			8.880,- €
+			&lt;span&gt;Einmalig&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;Du wirst auf Wunsch als Silber-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein sehr hohes Ansehen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+		&lt;h3&gt;Gold&lt;/h3&gt;
+		&lt;p&gt;	
+			88.800,- €
+			&lt;span&gt;Einmalig&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul class=&quot;pricetable-items&quot;&gt;
+			&lt;li&gt;Du wirst auf Wunsch als Gold-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein deutlich höheres Ansehen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+		&lt;h3&gt;Platin&lt;/h3&gt;
+		&lt;p&gt;	
+			888.000,- €
+			&lt;span&gt;Einmalig&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;Du wirst auf Wunsch als Platin-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein überaus hohes Ansehen.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;DIAMANT - Mitgliedschaft&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Nachfolgende DIAMANT Mitgliedschaft kannst du bei uns erwerben&lt;/p&gt;
+
+&lt;div class=&quot;row pricetable-container&quot;&gt;
+	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+		&lt;h3&gt;DIAMANT&lt;/h3&gt;
+		&lt;p&gt;	
+			8.880.000,- €
+			&lt;span&gt;Einmalig&lt;/span&gt;
+		&lt;/p&gt;
+
+		&lt;ul&gt;
+		&lt;li&gt;
+			Du wirst auf Wunsch als DIAMANT-Förder-Mitglied auf unser Webseite gelistet. 
+			Damit verlierst Du zwar Deine Sünden nicht, dafür aber eine Menge Geld.
+			Und NEIN, wir werden das Geld nicht dafür einsetzen, um Menschen zu impfen 
+			oder irgend so einen Blödsinn.&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+                    adminlabel: "Mitgliedschaften"
                 }
             }
         }
