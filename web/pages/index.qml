@@ -304,15 +304,52 @@ Content {
                 Text {
                     text: "&lt;h2 id=&quot;member&quot; class=&quot;margin-top80&quot;&gt;&lt;strong&gt;Mitgliedschaften&lt;/strong&gt;&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Als Mitglied bei &lt;strong&gt;Gott segne Dich&lt;/strong&gt; genießt Du für nur 88,80 € im Jahr nachfolgende Vorzüge. 
+	Als Mitglied bei &lt;strong&gt;Gott segne Dich&lt;/strong&gt; genießt Du nachfolgende Vorzüge. 
 &lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;Du hilfst Menschen, die in eine Notlage geraten sind.&lt;/li&gt;
-	&lt;li&gt;Todo&lt;/li&gt;
+	&lt;li&gt;
+		Du hilfst Menschen, die in eine Notlage geraten sind.
+	&lt;/li&gt;
+	&lt;li&gt;
+		Du kannst an unsere Workshops, Seminaren und Webinaren teilnehmen.&lt;/br&gt;
+		(Bei den Workshops könnten allerdings Raumkosten anfallen, solange der Verein an
+		dem Ort keine eigenen Räumlichkeiten besitzt.)
+	&lt;/li&gt;
+	&lt;li&gt;
+		Du kannst auf dem Land, das wir für den Verein erwerben, ein Tiny-House, einen Dom,
+		einen Zome, eine Jurte oder ein Teepee für Dich aufstellen, und in der Gemeinschaft
+ 		mithelfen.&lt;/br&gt;
+		(Bei längerer Abwesenheit wird das Gebäude allerdings anderweitig vom Verein genutzt)&lt;/li&gt;
+	&lt;li&gt;
+		Du kannst in den Camps (z.B. Camp Eden an der Algarve) kostenlos Camping machen,
+		und dich an den Gemeinschafts-Aktivitäten beteiligen.
+	&lt;/li&gt;
+	&lt;li&gt;
+		Du kannst dein Wohnmobil, dein Haus oder Grundstück dem Verein überschreiben,
+		und bekommst das Nutzungsrecht auf Lebzeit.
+	&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;row pricetable-container&quot;&gt;
-	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+
+
+"
+                    adminlabel: "Mitgliedschaften"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 3
+            }
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "&lt;div class=&quot;row pricetable-container&quot;&gt;
+	&lt;div class=&quot;col-md-6 price-table&quot;&gt;
 		&lt;h3&gt;Standard (halbj.)&lt;/h3&gt;
 		&lt;p&gt;	
 			44,99 €
@@ -323,7 +360,7 @@ Content {
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
-	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+	&lt;div class=&quot;col-md-6 price-table popular&quot;&gt;
 		&lt;h3&gt;Standard&lt;/h3&gt;
 		&lt;p&gt;	
 			88,80 €
@@ -335,9 +372,22 @@ Content {
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt;"
+                }
+            }
 
-&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;PREMIUM - Mitgliedschaften&lt;/strong&gt;&lt;/h2&gt;
+            Column {
+                span: 3
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;PREMIUM - Mitgliedschaften&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Nachfolgende Premium Mitgliedschaften kannst du bei uns erwerben&lt;/p&gt;
 
 &lt;div class=&quot;row pricetable-container&quot;&gt;
@@ -391,8 +441,24 @@ Content {
 &lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;DIAMANT - Mitgliedschaft&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Nachfolgende DIAMANT Mitgliedschaft kannst du bei uns erwerben&lt;/p&gt;
 
+"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 3
+            }
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "
 &lt;div class=&quot;row pricetable-container&quot;&gt;
-	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+	&lt;div class=&quot;col-md-12 price-table popular&quot;&gt;
 		&lt;h3&gt;DIAMANT&lt;/h3&gt;
 		&lt;p&gt;	
 			8.880.000,- €
@@ -409,8 +475,11 @@ Content {
 		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Mitgliedschaften"
                 }
+            }
+
+            Column {
+                span: 3
             }
         }
     }
