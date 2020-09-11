@@ -112,7 +112,7 @@ Content {
 			&lt;div class=&quot;white-row&quot;&gt;
 				&lt;h3&gt;&lt;strong&gt;Gott segne Dich &lt;/strong&gt;&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt; 
-					Spende warme Mahlzeiten für hungrige Menschen
+					Schenke warme Mahlzeiten für hungrige Menschen
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -189,7 +189,7 @@ Content {
 &lt;p&gt;
 	Die Restaurants und Cafes, die bei unserer Aktion mitmachen, bekommen von uns Plakate, 
 	Flyer und Gutscheine kostenlos gestellt. Die Plakate hängen sie ins Schaufenster. 
-	Das lockt Menschen an die ein offenes Herz für ihre Mitmenschen habe. &lt;br&gt;&lt;br&gt;
+	Das zieht Menschen an die ein offenes Herz für ihre Mitmenschen habe. &lt;br&gt;&lt;br&gt;
 
 	Unseren Flyer und die Gutscheine stellen sie auf den Tresen um den Kunden zu signalisieren, das man dort 
 	Gutscheine erwerben kann.&lt;br&gt;&lt;/br&gt;
@@ -221,7 +221,7 @@ Content {
 			&lt;div class=&quot;white-row&quot;&gt;
 				&lt;h3&gt;&lt;strong&gt;Gott segne Dich&lt;/strong&gt;&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt;
-					Spende ein Zehnt deines Geldes um anderen Menschen zu helfen
+					Schenke ein Zehnt deines Geldes um anderen Menschen zu helfen
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -244,7 +244,7 @@ Content {
                     text: "&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;Ideen&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
-	Hier findest Du einige Idee, die wir als Verein von den eingeheneden Spenden 
+	Hier findest Du einige Idee, die wir als Verein von den eingeheneden Schenkungen 
 	realisieren möchten.
 &lt;/p&gt;
 
