@@ -467,10 +467,9 @@ Content {
 
 		&lt;ul&gt;
 		&lt;li&gt;
-			Du wirst auf Wunsch als DIAMANT-Förder-Mitglied auf unser Webseite gelistet. 
-			Damit verlierst Du zwar Deine Sünden nicht, dafür aber eine Menge Geld.
-			Und NEIN, wir werden das Geld nicht dafür einsetzen, um Menschen zu impfen 
-			oder irgend so einen Blödsinn.&lt;/li&gt;
+			Als DIAMANT-Förder-Mitglied kannst Du anderen Menschen 
+			ein schönes Zuhause geben und bekommst, ein Leben lang, auf all unseren Seminare
+			alles inklusive.&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
