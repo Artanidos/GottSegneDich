@@ -43,6 +43,17 @@ Content {
 	&lt;span class=&quot;subtitle&quot;&gt;Ein Herz für Menschen&lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;
+	Sobald ich mich entschieden habe, mit allem was ich tue der Welt und all den Menschen
+	zu dienen, bin ich frei.&lt;/br&gt;
+	Wenn wir unaufgefordert aus freiem Herzen dienen, dann leuchten unsere Herzen besonders hell.&lt;/br&gt;
+	William Athur sagte einmal, &quot;Wenn wir in anderen nach dem Besten suchen, bringen wir
+	auch das Beste in uns zum Vorschein.&quot;&lt;/br&gt;&lt;/br&gt;
+	Unsere Webseite ist noch nicht ganz vollständig. Wir arbeiten daran.&lt;/br&gt;
+	Schau gerne später noch mal rein, um unsere Ideen, Seminare und Workshops zu sehen und 
+	zu verlinken.&lt;/br&gt;
+	Vielen Dank, das Du Dir die Zeit genommen hast, dies alles zu lesen. Das bedeutet uns sehr viel.
+&lt;/p&gt;
+&lt;p&gt;
 	Wir haben diesen Verein gegründet, nachdem wir selber einmal in eine Notlage
 	gekommen sind.&lt;/br&gt;
 	Olaf hat Jahre lang für Banken und Versicherungen gearbeitet, bis er dann eines Tages
@@ -590,6 +601,10 @@ Content {
 	eine tantrische Gemeinschaft, die nach Regeln der Rainbow Family und der Philosophie der
 	UBUNTU Bewegung aus Süd Afrika geführt wird. Dort gibt es weder Hierarchie noch Geld, 
 	noch Tausch noch Handel. Lediglich nach und von Außen fließt Geld.
+	&lt;/p&gt;
+
+	&lt;p&gt;
+		Hier findest Du ein paar von Arts &lt;a href=&quot;https://artananda.github.io/manifestation/books.html&quot;&gt;Büchern&lt;/a&gt;.
 	&lt;/p&gt;
 &lt;/div&gt;"
                 }
