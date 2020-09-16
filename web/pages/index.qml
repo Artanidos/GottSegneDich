@@ -40,7 +40,8 @@ Content {
                 Text {
                     text: "&lt;h1&gt;
 	&lt;strong&gt;Gott segne Dich &lt;/strong&gt; e.V. 
-	&lt;span class=&quot;subtitle&quot;&gt;Ein Herz für Menschen&lt;/span&gt;
+	&lt;span class=&quot;subtitle&quot;&gt;Ein Herz für Menschen. Schenke anderen von Herzen und mit Liebe das,
+	 wonach Dein Herz brennt.&lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;
 	Sobald ich mich entschieden habe, mit allem was ich tue der Welt und all den Menschen
@@ -255,7 +256,7 @@ Content {
                     text: "&lt;h2 class=&quot;margin-top80&quot;&gt;&lt;strong&gt;Ideen&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
-	Hier findest Du einige Idee, die wir als Verein von den eingeheneden Schenkungen 
+	Hier findest Du einige Idee, die wir als Verein von den eingehenden Schenkungen 
 	realisieren möchten.
 &lt;/p&gt;
 
@@ -402,7 +403,7 @@ Content {
 &lt;p&gt;Nachfolgende Premium Mitgliedschaften kannst du bei uns erwerben&lt;/p&gt;
 
 &lt;div class=&quot;row pricetable-container&quot;&gt;
-	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
+	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
 		&lt;h3&gt;Bronze&lt;/h3&gt;
 		&lt;p&gt;	
 			888,- €
@@ -412,9 +413,9 @@ Content {
 		&lt;ul&gt;
 		&lt;li&gt;Du wirst auf Wunsch als Bronze-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein hohes Ansehen.&lt;/li&gt;
 		&lt;/ul&gt;
-		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
-	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
+	&lt;div class=&quot;col-md-3 price-table popular&quot;&gt;
 		&lt;h3&gt;Silber&lt;/h3&gt;
 		&lt;p&gt;	
 			8.880,- €
@@ -423,7 +424,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;Du wirst auf Wunsch als Silber-Förder-Mitglied auf unser Webseite gelistet und genießt dadurch ein sehr hohes Ansehen.&lt;/li&gt;
 		&lt;/ul&gt;
-		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
+		&lt;a href=&quot;http://eepurl.com/hcMqXP&quot; class=&quot;btn btn-default btn-sm&quot;&gt;ANMELDEN&lt;/a&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;col-md-3 price-table&quot;&gt;
 		&lt;h3&gt;Gold&lt;/h3&gt;
