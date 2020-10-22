@@ -68,7 +68,7 @@ Content {
 	&lt;div class=&quot;col-md-12&quot;&gt;
 		&lt;h4&gt;&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt; Wohnungslosigkeit&lt;/h4&gt;
 		&lt;p&gt; 
-			Sogar in Deutschland, Österreich oder auch in der Schweiz gibt es Menschen, 
+			Sogar in Deutschland, Österreich und auch in der Schweiz gibt es Menschen, 
 			die keine Wohnung haben, weil sie sich diese nicht leisten können. 
 		&lt;/p&gt;
 	&lt;/div&gt;
@@ -517,7 +517,7 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;Über &lt;strong&gt;Aniko&lt;/strong&gt; (Initiatorin)&lt;/h3&gt;
+	&lt;h3&gt;Über &lt;strong&gt;Aniko&lt;/strong&gt; (Präsitentin)&lt;/h3&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Aniko&lt;/strong&gt; hatte die Idee für dieses Projekt durch eine Eingebung von Gott,
 		nachdem sie selbst einmal in eine Notlage geraten ist.
@@ -542,8 +542,8 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Aniko&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Düsseldorf +49 (0)173 900 19 69&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:anikopacinella@gmail.com&quot;&gt;Aniko&lt;/a&gt; lebt in Düsseldorf&lt;/p&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Allentsteig +43 68 18 18 18 652 &lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:anikopacinella@gmail.com&quot;&gt;Aniko&lt;/a&gt; lebt derzeit in Allentsteig (Österreich)&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;!-- a href=&quot;https://www.facebook.com/meli.jurak&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a--&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a--&gt;
@@ -573,7 +573,7 @@ Content {
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Olaf Art Ananda&lt;/h4&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Monchique +351 969 31 28 08&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; lebt zur Zeit in Potugal.&lt;/p&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; lebt zur Zeit in Potugal, ist aber auch an anderen heiligen Orten auf diesem Planeten &lt;strong&gt;Zuhause&lt;/strong&gt;&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -592,7 +592,7 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;Über &lt;strong&gt;Art&lt;/strong&gt; (technischer Leiter)&lt;/h3&gt;
+	&lt;h3&gt;Über &lt;strong&gt;Art&lt;/strong&gt; (Vizepräsident)&lt;/h3&gt;
 	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; war lange Zeit Softwareentwickler und Designer bis er 2014 
 	seinen gut bezahlten Job bei einer Schweizer Bank gegen ein Leben in und mit der Natur 
 	eingetauscht hat.
